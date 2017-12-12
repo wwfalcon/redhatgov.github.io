@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Red Hat | Public Sector</title>
+    <link>http://redhatgov.io/events/</link>
+    <description>Recent content in Events on Red Hat | Public Sector</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://redhatgov.io/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Containers and Cloud-Native Roadshow Toronto</title>
+      <link>http://redhatgov.io/events/20180220-containers-and-cloud-native-roadshow-toronto-99cbdbda892e8d2b0a2cf41a0e7602be/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180220-containers-and-cloud-native-roadshow-toronto-99cbdbda892e8d2b0a2cf41a0e7602be/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Containers and Cloud-Native Roadshow Boston</title>
+      <link>http://redhatgov.io/events/20180201-containers-and-cloud-native-roadshow-boston-226664bb2aa39809b3f5739c4e9c5b42/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180201-containers-and-cloud-native-roadshow-boston-226664bb2aa39809b3f5739c4e9c5b42/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Storage and its role in the software-defined datacenter</title>
+      <link>http://redhatgov.io/events/20180123-storage-and-its-role-in-the-software-defined-datacenter-76a694ca0c5ec9256aff098d2b5fa373/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180123-storage-and-its-role-in-the-software-defined-datacenter-76a694ca0c5ec9256aff098d2b5fa373/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Containers and Cloud Native Roadshow</title>
+      <link>http://redhatgov.io/events/20180118-containers-and-cloud-native-roadshow-119ab7490395a911066587eb67123f5d/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180118-containers-and-cloud-native-roadshow-119ab7490395a911066587eb67123f5d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Containers and Cloud Native Roadshow</title>
+      <link>http://redhatgov.io/events/20180116-containers-and-cloud-native-roadshow-8db0dbefc7cdd450807bd82d53e997d2/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180116-containers-and-cloud-native-roadshow-8db0dbefc7cdd450807bd82d53e997d2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtualization as a path to an optimized, modern datacenter</title>
+      <link>http://redhatgov.io/events/20180110-virtualization-as-a-path-to-an-optimized-modern-datacenter-6c480ccc0b5861db1ae89d4f41fbf427/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180110-virtualization-as-a-path-to-an-optimized-modern-datacenter-6c480ccc0b5861db1ae89d4f41fbf427/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Access and advocacy: The foundation for innovation</title>
+      <link>http://redhatgov.io/events/20171219-access-and-advocacy-the-foundation-for-innovation-29fd7ab28156dc35a5a53f17c513b2a0/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20171219-access-and-advocacy-the-foundation-for-innovation-29fd7ab28156dc35a5a53f17c513b2a0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible Automation Technical Workshops</title>
+      <link>http://redhatgov.io/events/20171219-ansible-automation-technical-workshops-c5d8a7ee4eeff793517147ee4c97ef65/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20171219-ansible-automation-technical-workshops-c5d8a7ee4eeff793517147ee4c97ef65/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AFCEA Winter Gala</title>
+      <link>http://redhatgov.io/events/20171214-afcea-winter-gala-19e3ad7acf845fa9a3ee09b2ce73fd03/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20171214-afcea-winter-gala-19e3ad7acf845fa9a3ee09b2ce73fd03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Networking in OpenStack is challenging virtually everything is virtual</title>
+      <link>http://redhatgov.io/events/20171214-networking-in-openstack-is-challenging-virtually-everything-is-virtual-2fc843b1c3b75924530e434b15e3d31e/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20171214-networking-in-openstack-is-challenging-virtually-everything-is-virtual-2fc843b1c3b75924530e434b15e3d31e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using APIs to Improve the Business of Care Delivery</title>
+      <link>http://redhatgov.io/events/20171214-using-apis-to-improve-the-business-of-care-delivery-ba57975bfa511d59cd55d21cc573351b/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20171214-using-apis-to-improve-the-business-of-care-delivery-ba57975bfa511d59cd55d21cc573351b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible Automation Technical Workshop</title>
+      <link>http://redhatgov.io/events/20171213-ansible-automation-technical-workshop-fc9d20b2ebc1409df1659e42cf38db92/</link>
+      <pubDate>Wed, 13 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20171213-ansible-automation-technical-workshop-fc9d20b2ebc1409df1659e42cf38db92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible Automation: Technical Workshop</title>
+      <link>http://redhatgov.io/events/20171213-ansible-automation-technical-workshop-c48331f41d9d0381f6cedfdae3924efe/</link>
+      <pubDate>Wed, 13 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20171213-ansible-automation-technical-workshop-c48331f41d9d0381f6cedfdae3924efe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
